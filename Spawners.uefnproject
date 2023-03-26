@@ -1,0 +1,45 @@
+{
+	"fileVersion": 14,
+	"versionSuffix": "",
+	"title": "Spawners",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"attributions": [],
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "24.01",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "Spawners",
+			"bIsRoot": true,
+			"bIsPublic": false,
+			"bEnabled": true
+		}
+	],
+	"dependencies": [],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 1,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": true,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "1576478e-4d69-8dd9-191d-44a391c11ef7",
+		"modules":
+		{
+			"Spawners": "ae8f2fca-4c2f-3634-4f63-19ae9a8cad41"
+		}
+	}
+}
